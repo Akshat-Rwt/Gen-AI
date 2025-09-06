@@ -1,0 +1,4 @@
+OPENAI_API_KEY= "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"
+ANTHROPIC_API_KEY = "anthropic api key here....."
+GOOGLE_API_KEY = "AIzaSyCm6k8-8El6n3NViVdIReaaM1Abiyeido0"
+HUGGINGFACEHUB_API_TOKEN="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"
