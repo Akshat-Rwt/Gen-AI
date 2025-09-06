@@ -1,0 +1,33 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+
+# Creating the Python Enviroment
+# Go to the path     cd /path/to/your/project
+# Command            python -m venv myenv
+# Activate the virtual enviroment           myenv\Scripts\activate
+# Install the Dependencies          pip install package_name / pip install -r requirements.txt
